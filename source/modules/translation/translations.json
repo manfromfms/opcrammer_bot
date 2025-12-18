@@ -1,0 +1,13 @@
+{
+    "en": {
+        "Initial command.": {
+            "ru": "Initial command."
+        },
+        "Display information about a command": {
+            "ru": "Display information about a command"
+        },
+        "Welcome to our bot for cramming chess! To see all the available commands execute /help.": {
+            "ru": "Welcome to our bot for cramming chess! To see all the available commands execute /help."
+        }
+    }
+}
